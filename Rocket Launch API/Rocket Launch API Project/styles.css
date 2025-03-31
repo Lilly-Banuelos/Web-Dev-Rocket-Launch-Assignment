@@ -1,0 +1,146 @@
+/*
+Name: Lilly Jarvis (Banuelos)
+Date: 04/12/2023
+*/
+
+/* Styles the body */
+body {
+    background-image: url(Images/space\ background.jpg);
+    background-size: cover;
+}
+
+/* Styles the "SPACE LAUNCH DATA" title*/
+#id2 {
+    background-color: white;
+    font-size: 32px;
+    width: 35%;
+    margin-top: 22%;
+    margin-left: 32.5%;
+    text-align: center;
+    border-width: 3.5px;
+    border-color: black;
+    border-style: solid;
+}
+
+/* Styles the "LAUNCHES" button (div) */
+#id1 {
+    background-color: white;
+    font-size: 26px;
+    width: 28%;
+    margin-top: 1%;
+    margin-left: 36%;
+    text-align: center;
+    border-width: 3.5px;
+    border-color: black;
+    border-style: solid;
+}
+
+/* Styles the "ASTRONAUTS" button (div) */
+#id3 {
+    background-color: white;
+    font-size: 26px;
+    width: 28%;
+    margin-top: 1%;
+    margin-left: 36%;
+    text-align: center;
+    border-width: 3.5px;
+    border-color: black;
+    border-style: solid;
+}
+
+/* Styles everything with the divClass class */
+.divClass {
+    width: 32%;
+    text-align: center;
+    border-width: 3.5px;
+    float: left;
+    border-color: black;
+    border-style: solid;
+    margin-top: 4.5%;
+    background-color: white;
+}
+
+/* Styles the images in the divClass class */
+.divClass img {
+    width: 100%;
+    height: 400px;
+}
+
+/* Styles the 1st rocket information displayed */
+#newDivID0 {
+    margin-left: .25%;    
+}
+
+/* Styles the 2nd rocket information displayed */
+#newDivID1 {
+    margin-left: 1%;    
+    margin-right: 1%;    
+}
+
+/* Styles the back "button" (div) for launches page */
+#btnID {
+    background-color: white;
+    font-size: small;
+    width: 8%;
+    margin-left: 36%;
+    text-align: center;
+    border-width: 3.5px;
+    border-color: black;
+    border-style: solid;
+    height: 2%;
+    position: absolute;
+}
+
+/* Styles the back "button" (div) for astronauts page */
+#btnID2 {
+    background-color: white;
+    font-size: small;
+    width: 8%;
+    margin-left: 36%;
+    text-align: center;
+    border-width: 3.5px;
+    border-color: black;
+    border-style: solid;
+    height: 2%;
+    position: absolute;
+}
+
+/* Styles everything with the divClass2 class */
+.divClass2 {
+    width: 32%;
+    text-align: center;
+    border-width: 3.5px;
+    float: left;
+    border-color: black;
+    border-style: solid;
+    margin-top: 4.5%;
+    background-color: white;
+}
+
+/* Styles the images in the divClass2 class */
+.divClass2 img {
+    width: 100%;
+    height: 410px;
+}
+
+/* Styles the 1st astronaut information displayed */
+#newNewDivID0 {
+    margin-left: .25%;    
+}
+
+/* Styles the 2nd astronaut information displayed */
+#newNewDivID1 {
+    margin-left: 1%;    
+    margin-right: 1%;    
+}
+
+/* Styles the 4th astronaut information displayed */
+#newNewDivID3 {
+    margin-left: .25%;    
+}
+
+/* Styles the 5th astronaut information displayed */
+#newNewDivID4 {
+    margin-left: 1%;    
+    margin-right: 1%;    
+}
